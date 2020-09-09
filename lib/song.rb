@@ -55,8 +55,8 @@ class Song
       else
         hash[a] = 1 
       end 
-      hash 
     end
+    hash
   end
   
 end
